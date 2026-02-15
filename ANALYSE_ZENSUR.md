@@ -154,3 +154,71 @@ Die Schwärzungsmuster zeigen ein dreischichtiges Schutzsystem:
 Die Frontmann-These wird durch die Dokumente gestützt: Die öffentlich genannten Personen (Clinton, Trump, Prince Andrew) dominieren die Schlagzeilen, während die eigentliche Infrastruktur — Geheimdienste, die Mega Group, die Trilaterale Kommission und internationale Finanzinstitutionen — hinter FOIA-Codes verborgen bleibt.
 
 Die Verbindungslinie Robert Maxwell (Mossad) → Ghislaine Maxwell → Jeffrey Epstein → Honey Trap Operation → Erpressung politischer Führungskräfte ist in den Dokumenten dokumentiert. Die Frage ist nicht ob, sondern in welchem Ausmaß dies eine nachrichtendienstliche Operation war — und wessen.
+
+## 9. Warum wurde Epstein "erwischt"?
+
+### Der Schutzschirm (2005-2018)
+
+U.S. Attorney Alexander Acosta verhandelte 2007 das Non-Prosecution Agreement (NPA):
+- Statt lebenslänglich: 13 Monate Bezirksgefängnis mit Arbeitsfreigang
+- Alle Mittäter erhielten Immunität
+- Die Opfer wurden nicht informiert (CVRA-Verstoß)
+- Das Abkommen enthielt eine Geheimhaltungsklausel
+
+DOJ-OGR-00020800:
+> "The United States also agrees that it will not institute any criminal charges against any potential co-conspirators of Epstein."
+
+DOJ-OGR-00021369 (OPR-Bericht):
+> "Acosta exercised poor judgment when he agreed to end the federal investigation through the NPA. Important provisions, such as not to prosecute all 'potential co-conspirators,' were added with little discussion or consideration."
+
+### Die "Intelligence Asset"-Frage
+
+DOJ-OGR-00021369:
+> "When OPR asked Acosta about his apparent equivocation during his 2019 press conference, in answering a media question about whether he had knowledge of Epstein being an 'intelligence asset,' Acosta stated to OPR that 'the answer is no.'"
+
+Zugleich: "Acosta was made aware that OPR could use a classified setting to discuss intelligence information."
+
+### Der Durchbruch: Julie K. Brown, Miami Herald
+
+Am 28. November 2018 veröffentlichte Journalistin Julie K. Brown ihre dreiteilige Recherche: "Perversion of Justice: How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime"
+
+DOJ-OGR-00000339:
+> "Just two days later, on or about November 30, 2018, the defendant wired $100,000 from a trust account to [REDACTED - Individual I], an individual named as a possible co-conspirator in the NPA. This individual was also named and featured prominently in the Herald series."
+
+$350.000 in 5 Tagen an zwei geschwärzte Mittäter — Zeugenbeeinflussung.
+
+### Die Jurisdiktionslücke
+
+DOJ-OGR-00000010:
+> "We hold that the NPA with USAO-SDFL does not bind USAO-SDNY."
+
+Das NPA band nur Florida. New York (SDNY) konnte unabhängig anklagen.
+
+### Die Chronologie
+
+| Datum | Ereignis |
+|---|---|
+| 28. Nov 2018 | Miami Herald veröffentlicht Julie Browns Recherche |
+| 30. Nov 2018 | Epstein überweist $100k an Individual I |
+| 3. Dez 2018 | Epstein überweist $250k an Individual II |
+| ~Nov 2018 | SDNY eröffnet eigene Ermittlung |
+| 6. Juli 2019 | Epstein in New York verhaftet |
+| 10. Aug 2019 | Epstein tot in Zelle aufgefunden |
+| 2022 | Jean-Luc Brunel tot in Zelle aufgefunden |
+
+### Die unbeantwortete Frage
+
+Epstein wurde "erwischt" — aber das System dahinter wurde NICHT erwischt:
+
+| Was passierte | Was NICHT passierte |
+|---|---|
+| Epstein starb in Haft | Die Kundenliste wurde nie veröffentlicht |
+| Maxwell wurde verurteilt | "Individual I" und "Individual II" bleiben geschwärzt |
+| Acosta trat zurück | Kein einziger "Kunde" wurde angeklagt |
+| Opfer erhielten Entschädigung | Die Geheimdienst-Verbindung wurde nie untersucht |
+| Brunel starb in Haft | Die Mega Group wurde nie ermittelt |
+
+Drei der Hauptakteure starben bevor sie aussagen konnten:
+- Jeffrey Epstein (2019, Gefängniszelle)
+- Jean-Luc Brunel (2022, Gefängniszelle)
+- Robert Maxwell (1991, fiel von seiner Yacht)
